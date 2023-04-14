@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "Python": "Python Programing Mastercourse",
+                "Price": "232.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields": {
+                "Python": "JavaScript Programming mastercourse",
+                "Price": "220.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields": {
+                "Python": "Frontend Web Course",
+                "Price": "99.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields": {
+                "Python": "C++ Programming Mastercourse",
+                "Price": "221.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields": {
+                "Python": "Full Stack Web Course",
+                "Price": "200.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "6"},
+            "fields": {
+                "Python": "C Programming Mastercourse",
+                "Price": "225.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "7"},
+            "fields": {
+                "Python": "C# Programming Mastercourse",
+                "Price": "228.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        },
+        {
+            "sys": {"id": "8"},
+            "fields": {
+                "Python": "Graphic Design Course",
+                "Price": "199.99",
+                "image": {"fields":{"file":{"url": "images/tech catoon1.jpg"}}}
+            }
+        }
+    ]
+}
